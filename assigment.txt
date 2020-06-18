@@ -1,0 +1,13 @@
+make a web page
+it should show a welcome screen in the beginning for few seconds.
+
+Later it should show five buttons, the purpose of each button should be different. once the button is clicked other should hide and once clicked again  all should reappear on screen.
+
+the purpose of the buttons are:
+1st button should change the color to blue or black something like this.
+
+2nd button should add the background image. 
+
+3rd button should print the hello on screen in every five seconds repeatedly.
+
+4&5th can have any functionality of your choice. You should use HTML,CSS and JS.
