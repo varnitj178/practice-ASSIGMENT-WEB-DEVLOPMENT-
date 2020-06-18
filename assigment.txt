@@ -9,5 +9,3 @@ the purpose of the buttons are:
 2nd button should add the background image. 
 
 3rd button should print the hello on screen in every five seconds repeatedly.
-
-4&5th can have any functionality of your choice. You should use HTML,CSS and JS.
